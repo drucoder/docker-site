@@ -1,0 +1,16 @@
+{
+  "name": "docker-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "micro",
+    "dev": "micro-dev"
+  },
+  "dependencies": {
+    "micro": "^9.3.4"
+  },
+  "devDependencies": {
+    "micro-dev": "^3.0.0"
+  }
+}
